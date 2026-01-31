@@ -295,7 +295,7 @@ class Line:
 
 if __name__ == "__main__":
     # Demo usage
-    line = Line(2, -3, 6)
+    line = Line(2, 6, 6)
     point = Point(1, 2)
     print(line)
     print(point)
